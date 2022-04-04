@@ -1,0 +1,7 @@
+variable user {
+
+}
+
+variable pwd {
+    
+} 
